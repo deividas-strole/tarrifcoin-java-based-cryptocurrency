@@ -21,7 +21,7 @@ public class Block {
         return calculatedhash;
     }
 
-    // Mine the block by finding a hash that starts with a certain number of zeros (difficulty)
+    // Mine the block by finding a hash that starts with a certain number of zeros (difficulty...)
     public void mineBlock(int difficulty) {
         String target = new String(new char[difficulty]).replace('\0', '0');
         while (!hash.substring(0, difficulty).equals(target)) {
