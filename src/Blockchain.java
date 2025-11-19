@@ -16,7 +16,7 @@ public class Blockchain {
             System.out.println("Error initializing key generator: " + e.getMessage());
         }
 
-        // Alice's key pair
+        // Alice's key pair...
         KeyPair aliceKeyPair = keyGen.generateKeyPair();
         PublicKey alicePublicKey = aliceKeyPair.getPublic();
         PrivateKey alicePrivateKey = aliceKeyPair.getPrivate();
