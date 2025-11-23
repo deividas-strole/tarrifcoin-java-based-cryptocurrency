@@ -50,7 +50,7 @@ public class Blockchain {
         }
     }
 
-    // Apply Sha256 to a string and return the result
+    // Apply Sha256 to a string and return the result..
     public static String applySha256(String input) {
         return StringUtil.applySha256(input);
     }
