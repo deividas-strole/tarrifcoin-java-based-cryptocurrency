@@ -32,7 +32,7 @@ public class Blockchain {
         genesisBlock.mineBlock(difficulty);
         blockchain.add(genesisBlock);
 
-        // Create a transaction from Alice to Bobas
+        // Create a transaction from Alice to Bobas ...
         String transaction = "Alice pays 50 coins to Bob";
         String transactionId = applySha256(transaction);
 
