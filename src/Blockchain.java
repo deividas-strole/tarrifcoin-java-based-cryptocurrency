@@ -26,7 +26,7 @@ public class Blockchain {
         PublicKey bobPublicKey = bobKeyPair.getPublic();
         PrivateKey bobPrivateKey = bobKeyPair.getPrivate();
 
-        // Create and mine the genesis block ...
+        // Create and mine the genesis block 
         Block genesisBlock = new Block("0", "Genesis Block", "");
         System.out.println("Creating genesis block...");
         genesisBlock.mineBlock(difficulty);
