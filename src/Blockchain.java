@@ -11,7 +11,7 @@ public class Blockchain {
         // Generate keys for Alice and Bob (RSA)
         try {
             keyGen = KeyPairGenerator.getInstance("RSA");
-            keyGen.initialize(2048);  // RSA key size of 2048 bits
+            keyGen.initialize(2048);  // RSA key size of 2048 bit
         } catch (NoSuchAlgorithmException e) {
             System.out.println("Error initializing key generator: " + e.getMessage());
         }
