@@ -12,7 +12,7 @@ public class Block {
         this.transactionData = transactionData;
         this.transactionId = transactionId;
         this.timeStamp = System.currentTimeMillis();
-        this.hash = calculateHash(); // Calculate hash immediately
+        this.hash = calculateHash(); // Calculate hash immediately...
     }
 
     // Calculate the block hash based on the block's content
