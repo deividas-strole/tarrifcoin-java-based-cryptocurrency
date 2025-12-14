@@ -59,8 +59,17 @@ Transaction: Deividas pays 50 coins to Wesley Transaction ID: a8d88b02cd4cb4134d
 
 This project is licensed under the MIT License.
 
-## Built with ☕ by Deividas
+## 📫 Connect
 
+- [DeividasStrole.com](https://deividasstrole.com)  
+- [LinkedIn](https://linkedin.com/in/deividas-strole)  
+- [YouTube](https://youtube.com/@deividas-strole)  
+- [Dev.to](https://dev.to/deividas-strole)  
+- [Medium](https://medium.com/@deividas-strole)  
+- [X](https://x.com/deividasstrole)  
 
+⭐ If you enjoyed this project, consider starring the repository to support the work of **Deividas Strole**.
+
+© 2025 Deividas Strole. All rights reserved.
 
    
