@@ -47,6 +47,7 @@ Transaction: Deividas pays 50 coins to Wesley Transaction ID: a8d88b02cd4cb4134d
 
 1. Clone this repository:
    ```bash
+   
    git clone https://github.com/your-username/Tarrif-Coin.git
    cd Tarrif-Coin
 
