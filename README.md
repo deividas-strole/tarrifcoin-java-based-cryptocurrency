@@ -1,12 +1,13 @@
-# Tarrif-Coin 💰 — A Simple Java-Based Cryptocurrency
+# Tarrif-Coin 💰 — A Simple Java-Based Cryptocurrency by Deividas Strole
 
-Tarrif-Coin is a basic blockchain app written in Java to demonstrate how a cryptocurrency might work under the hood. Inspired by Bitcoin and educational blockchain projects, this codebase includes key components such as blocks, mining, hashing, and a simple wallet system using RSA cryptography. This project is great for learning about blockchain technology and cryptography fundamentals.
+Tarrif-Coin is a basic Java-based blockchain app created by **Deividas Strole** to demonstrate how a cryptocurrency might work under the hood. Inspired by Bitcoin and educational blockchain projects, this codebase includes key components such as blocks, mining, hashing, and a simple wallet system using RSA cryptography. This project is perfect for developers learning about blockchain technology and cryptography fundamentals.
+
 
 ## 🚀 Features
 
 - ⛓️ Basic Blockchain with Hash Linking  
 - 🔒 RSA-based Wallets (2048-bit keys)  
-- 🧾 Simple Transactions (e.g., “Deividas pays 50 coins to Wesley”)  
+- 🧾 Simple Transactions (e.g., “Deividas Strole pays 50 coins to Wesley”)  
 - ⛏️ Proof-of-Work Mining with Adjustable Difficulty  
 - 🧠 SHA-256 Hashing  
 - 🔧 Easily Extendable for More Complex Features  
